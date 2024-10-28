@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbhishek Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">A passionate machine learning enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrathog12&label=Profile%20views&color=0e75b6&style=flat" alt="wrathog12" /> </p>
